@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426977855646",
+    "firebase_url": "https://medihub-8f208.firebaseio.com",
+    "project_id": "medihub-8f208",
+    "storage_bucket": "medihub-8f208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426977855646:android:7d148748c54c9613da538f",
+        "android_client_info": {
+          "package_name": "com.gamecodeschool.medihub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426977855646-t3d8job5ue19bjucmsarr2ab3beij5l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamecodeschool.medihub",
+            "certificate_hash": "0942dc372bd0272d4c97d5e4c9531639f7721ff8"
+          }
+        },
+        {
+          "client_id": "426977855646-moasmb6jpes00b98sp1h88aams748af4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmFnMTzEFzonUigRji04cGkyiu2679C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426977855646-moasmb6jpes00b98sp1h88aams748af4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

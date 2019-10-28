@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MediHub</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="back">Back</string>
+
+    <string name="CIPROFLAXIN">
+       \n\n COMPOSITION:\n\n
+        \nEach Ciprofloxacin 500mg Tablet contains 582.20 mg ciprofloxacin hydrochloride equivalent to 500mg Ciprofloxacin \n
+         \n\nDOSAGE: \n\n
+\nUsual Adult Dose for Pneumonia\n
+\nIV: 400 mg IV every 8 to 12 hours
+\nOral: 500 to 750 mg orally every 12 hours
+\nDuration of Therapy: 7 to 14 days
+    </string>
+
+    <string name="ASPIRIN">
+        \n\nCOMPOSITION:\n\n
+\nActive ingredient (in each tablet)
+\nAspirin (acetylsalicylic acid). Pain reliever/fever reducer
+\nInactive ingredients
+\ncarnauba wax*, corn starch, hypromellose, powdered cellulose, triacetin
+
+\n\nDOSAGE:\n\n
+\nUsual Adult Dose for Fever
+\n\nOral:
+\n300 to 650 mg orally every 4 to 6 hours as needed
+\nMaximum dose: 4 g in 24 hours
+        \n\nRectal:
+\n300 to 600 mg rectally every 4 hours
+    </string>
+
+    <string name="Dexamethasone">
+        \n\nCOMPOSITION:\n\n
+\nEach tablet contains 40.38 mg lactose (as lactose monohydrate).
+\n\nDOSAGE:\n
+        \nUsual Adult Dose for Acute Mountain Sickness
+\nUsual dose: 2 mg orally every 6 hours OR 4 mg orally every 12 hours
+
+    </string>
+
+    <string name="LIBRAX">
+    \n\nCOMPOSITION:\n\n
+\nChlordiazepoxide (5 mg) + Clidinium (2.5 mg).
+\n\nDosage:\n
+\nThe usual maintenance dose is 1 or 2 capsules, 3 or 4 times a day administered before meals and at bedtime.
+    </string>
+    <string name="CROCIN">
+    \n\nCOMPOSITION:\n\n
+        Paracetamol
+\n\nDOSAGE:\n
+\nAdults and children over 12 year
+\nFor mild to moderate symptoms : 1 tablet
+\n3 to 4 times a day
+    </string>
+
+</resources>
